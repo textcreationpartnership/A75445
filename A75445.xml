@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the Solemne League &amp; Covenant; presented to the publick view of all loyall subiects in England, Scotland, and Ireland; in the twelfth year of the reign of our most gracious sovereign Lord Charles by the grace of God, of England, Scotland, France and Ireland, King, Defender of the Faith, &amp;c. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75445</idno>
+            <idno type="STC">Wing A3448</idno>
+            <idno type="STC">Thomason E1045_3</idno>
+            <idno type="STC">ESTC R207947</idno>
+            <idno type="EEBO-CITATION">99866962</idno>
+            <idno type="PROQUEST">99866962</idno>
+            <idno type="VID">119251</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75445)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119251)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1045[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the Solemne League &amp; Covenant; presented to the publick view of all loyall subiects in England, Scotland, and Ireland; in the twelfth year of the reign of our most gracious sovereign Lord Charles by the grace of God, of England, Scotland, France and Ireland, King, Defender of the Faith, &amp;c. Published according to order.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119251:1" rendition="simple:additions"/>
+            <p>AN ANSWER To the Solemne League &amp; Covenant; PRESENTED To the publick view of all Loyall Subiects in <hi>ENGLAND, SCOTLAND,</hi> and <hi>IRELAND;</hi> In the twelfth year of the Reign of our moſt Gracious Sovereign Lord CHARLES BY THE Grace of God, of <hi>ENGLAND, SCOTLAND, FRANCE</hi> and <hi>IRELAND,</hi> KING, Defender of the <hi>FAITH,</hi> &amp;c.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> PRINTED for <hi>GEORGE HORTON,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119251:2"/>
+            <pb n="1" facs="tcp:119251:2"/>
+            <head>AN ANSWER TO THE Solemn League And Covenant.</head>
+            <p>
+               <hi>WHether is this Covenant ſo grounded upon holy Scrip<g ref="char:EOLhyphen"/>ture, &amp; ſo conformable to the Laws of the Land yet in force, and ſo conſonant to former Oaths and Pro<g ref="char:EOLhyphen"/>teſtations that a religious Chriſtian and Loyal Sub<g ref="char:EOLhyphen"/>ject may without ſcruple of Conſcience, and danger of enſnaring his ſoul enter into it?</hi>
+            </p>
+            <p>I anſwer negatively. And although I had more then once, made a <hi>Covenant</hi> with my ſelf, <hi>Rebus ſic ſtantibus,</hi> ôr rather <hi>ja<g ref="char:EOLhyphen"/>centibus,</hi> never to queſtion this Covenant; which the Authori<g ref="char:EOLhyphen"/>ty of bath Houſes, and <hi>Piety</hi> and <hi>Learning</hi> of the <hi>Aſſembly of Divines,</hi> hoth commended as the Soveraign <hi>Remedy</hi> of all the <hi>Maladies</hi> of the times: yet becauſe my Conſcience tells me that it hath not approbation from the <hi>Three that bear Record in Herven,</hi> I dare not conceal thoſe Reaſons which at the firſt made me doubt of the lawfulneſs of it, and in the end put it out of doubt. The Reaſons propounding the naked truth, without any cloathing of Art, or ornament of Rhetorick, are theſe. <hi>Andi non phalerata, ſed fortia.</hi>
+            </p>
+            <pb n="2" facs="tcp:119251:3"/>
+            <p>Not to take advantage of the <hi>prepoſterous order</hi> in ſet<g ref="char:EOLhyphen"/>ting down the parts of this Covenant, wherein he that run<g ref="char:EOLhyphen"/>neth may read a double Soleciſm. (For in it the Church of <hi>Scotland,</hi> precedeth the Church of <hi>England;</hi> and the Liber<g ref="char:EOLhyphen"/>ties of the Subject are ſet before the Royal Prerogative, and Imperiall Dignity of the Prince. Surely ſuch a ſacred and venerable <hi>Evidence</hi> of fidelity, is a publick Covenant made by two Nations, and ſigned by the Name of the great <hi>Jehovah;</hi> that in it both matter and method, phraſe and order ought to be maturely adviſed on: and not only every period and line, but every word and ſyllable therein to be <hi>exactly ſcan'd,</hi> before the Conſcience of millions of men be charged with it. If we cannot brook or keep out hands from tearing a Liſt, Catalogue, or Regiſter, wherein they who are many degrees below us, are yet ranked above us, and named before us: can his Majeſty take it well at our hands, that we ſhould accept of a Covenant <hi>hand over head,</hi> wherein the <hi>members</hi> are ſet above the <hi>head,</hi> and his Soveraign Majeſty ſlighted; and that not only by miſplacing his <hi>perſon,</hi> but limiting and reſtraining the <hi>preſervation of his Perſon, and Authority to the defence of the true Religion, and maintenance of the Liberties of the Kingdoms?</hi> What is this but to <hi>indent</hi> with our Soveraign, and <hi>capitulate</hi> with our <hi>head;</hi> as <hi>Ochan</hi> ſometimes did with the <hi>Emperor Frederick, Defende gladio, &amp; ego defendam te argumentis;</hi> Defend me with thy Sword, and I will defend thee with my Pen? If his Majeſty will defend our <hi>Faith,</hi> we will bear <hi>faith</hi> to him; if he will keep ſafe our <hi>Pendants,</hi> we will ſafe<g ref="char:EOLhyphen"/>guard his <hi>Crown.</hi> Which limitation I except at, not that I doubt but that there is and ought to be a mutualitie between King and Sub<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect; and that if he either deſert the true Faith, or infringe the Laws and juſt Liberties of his Sub<g ref="char:EOLhyphen"/>jects, for which he pawned his Faith at his Coronation; God will call him to an account for it: but this doth not diſcharge us of our Allegiance to him. Though he keep not touch with us, yet we may not break with him; for he is, (as <hi>Tertullian</hi> gives him his true <hi>dimenſions,</hi> according to the <hi>golden reed</hi> of the Sanctuary,) <hi>Solo Deo minor, caeteris omnibus
+<pb n="3" facs="tcp:119251:3"/>major:</hi> and conſequently queſtionable for his breach of faith before none but God. Alas, what a fickle eſtate and lamen<g ref="char:EOLhyphen"/>table condition were Princes in, if upon pretence that they defend not that Religion which the people believe to be true; or maintain not thoſe Liberties which they challenge as their birthright; their royall Crownes may be expoſed to ra<g ref="char:EOLhyphen"/>pine, and their ſac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed perſons to violence!</p>
+            <p>Not to <hi>dive</hi> into the <hi>depths</hi> of State, not anxiouſly to enquire into the reaſon which moved the firſt contrivers and projectors of this League to ſet it on foot at this preſent, and preſſe it with all earneſtneſs; I am perſwaded that none will deny that their main ſcope and aime therein was, to en<g ref="char:EOLhyphen"/>gage our brethren of <hi>Scotland</hi> in the preſent quarrell, for pulling down Epiſcopacie, and ſetting up the Presbyterie; and by this National and ſolemne League to ſtrengthen their partie, and foment the late unnaturall War which drained the Wealth of the Kingdome.: and was like to draw out the life-blood alſo. <hi>Nemo tenetur divinare,</hi> ſay the Ca<g ref="char:EOLhyphen"/>noniſts; neither will I take upon me the office of a <hi>Pro<g ref="char:EOLhyphen"/>phet</hi> to <hi>foretell</hi> the <hi>Cataſtrophe</hi> of theſe <hi>Tragedies.</hi> Yet ſure I am, this Queen of all <hi>Iſlands</hi> never received ſuch pre<g ref="char:EOLhyphen"/>judiced and wrong, nor ever was ſo near the <hi>brink of deſtru<g ref="char:EOLhyphen"/>ction</hi> as when ſhe drew in forraign Forces to defend her ſelf a<g ref="char:EOLhyphen"/>gainſt homebred Enemies: and I pray God we experimen<g ref="char:EOLhyphen"/>tally interpret not the myſterie of <hi>Pharoahs</hi> dream concer<g ref="char:EOLhyphen"/>ning the <hi>lean kine which eat up the fat, and yet were never a whit the fatter.</hi> If there be a decree of Heaven, that theſe two Nations ſhall be drowned one in anothers blood, for the <hi>crimſons</hi> ſins of both not yet repented of: yet let not us draw this moſt fearfull judgement upon both Kingdomes by the <hi>cord</hi> of an oath. But to argue ſyllogiſtically.</p>
+            <p>No Subjects living under a Chriſtian Prince who is a profeſſor of the <hi>true Religion,</hi> and a <hi>Defender of the Orthodox Faith</hi> may enter into a publick and ſolemne Covenant for the reformation of Religion, without the conſent, (much leſs againſt the expreſs command) of their Soveraign.
+<pb n="4" facs="tcp:119251:4"/>For ſuch diſobedience and ſleighting of their King cannot ſtand with the duty they owe him of fear and Loyalty, injoy<g ref="char:EOLhyphen"/>ned <hi>Prov.</hi> 24.21. <hi>My Son, Fear the Lord and the King,</hi> Eccleſ. 8.1. <hi>I adviſe thee to take heed to the mouth of the King &amp; to the word of the oath of God.</hi> Rom. 13.1. <hi>Let every ſoul be ſubject to the higher powers: whoſoever reſiſteth the power, reſiſteth the ordinance of God, &amp; they that reſiſt, ſhall receive to themſelves damnation. V.</hi> 4. <hi>If thou do evil, fea; for he beareth not the ſword in Vain.</hi> Prov. 16.14. <hi>The wrath of the King is the Meſſenger of death.</hi> Prov. 19.12. <hi>The Kings wrath is like the roaring of a Lion.</hi> 1 Pet. 2.13. <hi>Submit your ſelves to every ordinance of man for the Lords ſake; whether it be to the King as Supreame.</hi> v. 17. <hi>Fear God, honour the King;</hi> Nor with the Prayers of the Church made for him, <hi>that we may ſerve, honour, and humbly obey him in God, and for God:</hi> Not with the princi<g ref="char:EOLhyphen"/>ples of right Reaſon; for the King is the ſupreme head of the Church, and <hi>Commonwealth,</hi> under Chriſt; and all his Sub<g ref="char:EOLhyphen"/>jects <hi>conjuncti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> in Parliament, or <hi>diviſim;</hi> are but Members of the ſame Body politick; and how ſhould the Members en<g ref="char:EOLhyphen"/>ter into a covenant, or frame and deviſe it without the head?</p>
+            <p>But the King is ſo far from yielding his royall aſſent to this <hi>Covenant,</hi> that he ſtriotly forbids it, and that under the pain of Treaſon in his Proclamation printed at <hi>Oxford.</hi>
+            </p>
+            <p>
+               <hi>Ergo,</hi> We may not enter into this <hi>Covenant,</hi> nor entan<g ref="char:EOLhyphen"/>gle our conſciences with this new <hi>Oath.</hi>
+            </p>
+            <p>
+               <hi>This Covenant we make with God: and in all things, eſpe<g ref="char:EOLhyphen"/>cially the things appertaining to God, we muſt obey God rather then man.</hi>
+            </p>
+            <p>
+               <hi>We have the Kings</hi> vertua <hi>conſent thereunto: for though he be not preſent in</hi> perſon <hi>at the Parliament, nor hath given his Royall aſſent under his hand; yet this Parliament is called and continued by his Authority, and his conſent is</hi> vertually <hi>contain<g ref="char:EOLhyphen"/>ed in the Votes of both Houſes.</hi>
+            </p>
+            <p>It is a ruled caſe in Divinity, That we muſt obey God ra<g ref="char:EOLhyphen"/>ther then man, when God commandeth one thing, and man
+<pb n="5" facs="tcp:119251:4"/>another: but when the commands of God and of his Vice<g ref="char:EOLhyphen"/>gerent upon earth: <hi>claſh</hi> not one againſt another, St. <hi>Bernards</hi> doctrine is moſt true, <hi>we muſt obey him as God, who is in the place of God, in thoſe things which are not againſt God.</hi> When St. <hi>Peter</hi> and St. <hi>John</hi> returned this anſwer to the Councell, the Councell forbad that which God commanded. God commanded the Apoſtles to preach Chriſts Reſurrection; and the Aſſembly of Prieſts and Elders forbad them. This is not the <hi>Covenante's</hi> caſe: for where doth God command the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> to ſwear to preſerve the <hi>Scotch Diſcipline</hi> and <hi>Liturgie,</hi> which they themſelves have often varied? Or to abjure <hi>Epi<g ref="char:EOLhyphen"/>ſcopacie,</hi> which was the only government of the Church for more then 1500 years, and under whoſe ſhade Chriſtian Religion moſt flouriſhed, and the Church <hi>ſtretched forth her branches to the Rivers, and her boughs to the ends of the earth?</hi> Where doth the Scripture warrant, (much leſs command) the aſſociation of two <hi>Kingdomes</hi> and joyntly taking up armes in the quarrell of the Goſpel, and defending and propagating Religion by the ſword?</p>
+            <p>The calling of the Parliament by the Kings Authority doth not conclude his aſſent to all the Ordinances of both the Houſes: for iſ it were ſo, why did this Parliament, after they had voted the <hi>Militia,</hi> and the extirpation of Prelacie and Pluralities, ſend to his Majeſty, and humbly intreat his royall aſſent? nay, why in all Parliaments ſince the firſt even till this day, after both Houſes had paſt bills, did ſtill the Lords and Commons lay them at his Majeſties feet, beſeeching him in humbleſt manner to take them up, and ſigne them with his royall hand? and if he liked them, his anſwer hath been, <hi>Le Roy vieut;</hi> if he ditated them, <hi>Le Roy s'aviſera.</hi> Did the calling of a Parliament in the Kings name and by his Authority, vertually include or conclude his Royall aſſent to all the Acts; King <hi>Richard</hi> the 2d. had given his conſent to his own depoſing: for that Parliament wherein he was depoſed, was called in his name and by his Authority.</p>
+            <p n="4">4. No Covenant, eſpecially publick and ſolemn between two Nations for reformation of Religion, may be taken
+<pb n="6" facs="tcp:119251:5"/>without warrant from Gods word; for in every ſuch Cove<g ref="char:EOLhyphen"/>nant God is a partie, and his conſent muſt be both had and known, which cannot be but from his word. Beſide, this Covenant is bound with an Oath, which is an Act of Religi<g ref="char:EOLhyphen"/>on, and <hi>cultus latriae,</hi> that is a part of divine worſhip; and if it be not commanded by God, it is forbidden in Scripture under the name of <hi>will-worſhip.</hi>
+            </p>
+            <p>Moreover, that golden rule of the Apoſtle applyed by him to the uſe of things indifferent, ſtretcheth alſo to this caſe of Conſcience, Whatſoever Oath we take, or Co<g ref="char:EOLhyphen"/>venant we enter into, not perſwaded in Conſcience that we have good ground for what we do in Scripture, is ſinne to us.</p>
+            <p>But this Covenant hath no warrant for it in holy Scrip<g ref="char:EOLhyphen"/>ture: for from the <hi>Alpha</hi> of <hi>Geneſis</hi> to the <hi>Omega</hi> of the <hi>Apo<g ref="char:EOLhyphen"/>calypſe</hi> there is no <hi>v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>la</hi> nor <hi>veſtigium</hi> of ſuch a Covenant as this.</p>
+            <p>
+               <hi>Ergo,</hi> This Covenant muſt not be taken by any, who de<g ref="char:EOLhyphen"/>ſire to walk exactly before God according to the preciſe rule of his word.</p>
+            <p>
+               <hi>There is warrant in Gods word both for the matter of this Covenant, and the form and manner of taking the oath. For</hi> the matter <hi>we have a pattern of a Covenant taken for the reformation of the falſe, and preſervation of the true Worſhip of God, and the uniting of Kingdoms in the truth thus reformed,</hi> 1 Sam. 18.3, 4. 2 Kings 23.5. 2 Chron. 25.8. 9. 2 Chron. 30. Ezra. 10.2. <hi>And for</hi> the form and manner <hi>of taking it by</hi> lifting up the hand, <hi>we have a Precedent,</hi> Apoc. 10.50.</p>
+            <p>None of theſe inſtances are <hi>ad Rhombum:</hi> all thoſe Cove<g ref="char:EOLhyphen"/>nants were made againſt idolatrie and other ſins expreſly for<g ref="char:EOLhyphen"/>bidden by the law of God; but this Covenant is againſt Pre<g ref="char:EOLhyphen"/>lacie and ſuch a form of worſhip practiſed in the Church of <hi>England,</hi> as hath been juſtified by the word of God, and un<g ref="char:EOLhyphen"/>anſwerable a guments drawn from Scripture by <hi>Whitgift</hi> and <hi>Hooker</hi> in their anſwer to <hi>Cartwright, Covell</hi> to <hi>Bar<g ref="char:EOLhyphen"/>row,</hi>
+               <pb n="7" facs="tcp:119251:5"/>and <hi>Browne, Burges</hi> to <hi>Ames,</hi> and <hi>Ball</hi> to <hi>Can,</hi> and many others.</p>
+            <p>In all thoſe Covenants the King had the main ſtroak, but in this none at all.</p>
+            <p n="1">1. For the Covenant mentioned, 1 <hi>Sam.</hi> 18.3, 4. it comes not home to our caſe, for that was a private Covenant be<g ref="char:EOLhyphen"/>tween two intimate friends, for the ſafety of both their lives, ſought after by a bloody Tyrant: this is a National Covenant between two Kingdoms, for the Reforming Re<g ref="char:EOLhyphen"/>ligion, and ſettling Peace; that was made by the true King appointed by God, and anointed before this by <hi>Samuel,</hi> againſt him who indeed held the Crown, but was rejected by God himſelf; this a Covenant made by Subjects againſt the Commands of a moſt gracious Prince.</p>
+            <p n="2">2. For the Covenant mentioned, 2 <hi>King.</hi> 23.5. the text ſaith, <hi>King Joſiah</hi> made this Covenant, that they ſhould walk after the Lord, and <hi>keep his Commandements, and his Teſtimo<g ref="char:EOLhyphen"/>nies, and his Statutes with all their heart,</hi> &amp;c. <hi>And that he put down the Chemarims,</hi> &amp;c. There the King makes a Cove<g ref="char:EOLhyphen"/>nant, and reforms a Church, and not the People; here the peo<g ref="char:EOLhyphen"/>ple enter into a Covenant without the King, and they take up<g ref="char:EOLhyphen"/>on them, againſt his command, to <hi>Reform,</hi> or rather <hi>Deform</hi> the Church, by overthrowing the Hierarchy, and aboliſhing Epiſcopacy. <hi>Chius ad Choum,</hi> theſe things agree as well as Harp and Harrow.</p>
+            <p n="3">3. For the Covenant mentioned, 2 <hi>Chr.</hi> 15.8, 9. <hi>King Aſa</hi> gathered all <hi>Judah</hi> and <hi>Benjamin</hi> together to <hi>Jeruſalem,</hi> where they offered to the Lord of the ſpoyles, and made this Covenant, and in performance of this Oath or Cove<g ref="char:EOLhyphen"/>nant, v. 16. <hi>he depoſed Maacah</hi> his Mother from her <hi>Regency,</hi> becauſe ſhe had made an Idoll in a grove, and <hi>Aſa brake down</hi> her Idoll, and ſtampt it, and burned it at the brook <hi>Kidron.</hi>
+            </p>
+            <pb n="8" facs="tcp:119251:6"/>
+            <p n="4">4. Eor the example of <hi>Iſrael,</hi> 2 <hi>Chron.</hi> 30. who in the dayes of <hi>Hezekiah,</hi> though they were under another King, yet joyned with the men of <hi>Judah</hi> in keeping the Paſs<g ref="char:EOLhyphen"/>over, it yeilds no ſupport at all to their tottering cauſe. For,</p>
+            <p n="1">1. They entred not into any ſolemn League with the men of <hi>Judah,</hi> though for the preſent they joyned with them in a Reli<g ref="char:EOLhyphen"/>gious duty commanded by the Law.</p>
+            <p n="2">2. What they did, they were invited to do by King <hi>Heze<g ref="char:EOLhyphen"/>kiah;</hi> whereas the <hi>Scotch</hi> are not invited to this League with the <hi>Engliſh</hi> by the King.</p>
+            <p n="3">3. The King of <hi>Aſhur</hi> forbad not the <hi>Iſraelites</hi> to joyn with their Brethren of <hi>Judah</hi> in keeping the Paſſover; but the King forbids any of his Subjects to enter into this Co<g ref="char:EOLhyphen"/>venant.</p>
+            <p n="4">4. The King who Reigned over the <hi>Iſraelites,</hi> was an Idolater; but our King is a worſhipper of the true God. And albeit, in ſome caſe and quarrel, the worſhippers of the true God may joyn with their Brethren of the ſame Reli<g ref="char:EOLhyphen"/>gion in another Kingdome, in a Defenſive League (though the King being an Idolater, ſhould forbid it) yet it follows not, that they may do ſo without the conſent, and againſt the command of a Chriſtian Prince, who is a profeſſor of the true Religion.</p>
+            <p>Laſtly, The <hi>Iſraelites,</hi> beſides the invitation of King <hi>He<g ref="char:EOLhyphen"/>zekiah</hi> to keep a ſolemn Paſſover with the <hi>Jews,</hi> had the ex<g ref="char:EOLhyphen"/>preſs command of God himſelf; whereas neither <hi>Engliſh</hi> nor <hi>Scotch</hi> have any command from God expreſly or implicitly, to enter into this League for the Defence of the Proteſtant Reli<g ref="char:EOLhyphen"/>gion againſt Papiſts without the King, the King himſelf under<g ref="char:EOLhyphen"/>taking, and that by moſt ſolemn Oathes and Proteſtations to defend the ſame.</p>
+            <p n="5">5. For the Covenant mentioned <hi>Ezra</hi> 10.3. that was meerly to remove a Scandal from the <hi>Jews,</hi> and to fulfill the expreſs command of God, for putting away ſtrange wives, ſet down in the Law of <hi>Moſes:</hi> in which caſe no man doubteth but a Covenant may be made not only without,
+<pb n="9" facs="tcp:119251:6"/>but againſt the commandement of a Prince. Yet here the <hi>Jews</hi> (beſides the command of <hi>Nehemiah</hi> the Viceroy) had the approbation of the <hi>Prince</hi> for making this <hi>Covenant:</hi> for the King of <hi>Perſia</hi> at this time favoured the <hi>Jews;</hi> and cont<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ibuted largely to the reedifying of the Temple; and gave order to <hi>Ezra</hi> the Prieſt to adorn the houſe of God, and perform all things in his ſervice according to the Law, <hi>Ezra</hi> 7.10.</p>
+            <p>The laſt example, <hi>Rev.</hi> 10.5. is leaſt to our preſent purpoſe: for the Angel there made no <hi>Covenant,</hi> but only <hi>ſwear</hi> by the living God, that <hi>time ſhould be no more.</hi> It is true he <hi>lifted up his hand;</hi> yet that no way helpeth the Covenanters cauſe: for that might be a fit geſture in an Angel menacing a fatal doom to the world, and the <hi>out<g ref="char:EOLhyphen"/>dating</hi> of all time; which yet may not be thought ſo fit a geſture for men entring into a holy <hi>League</hi> for the preſer<g ref="char:EOLhyphen"/>vation of two Kingdoms. If they can<g ref="char:punc">▪</g> as the Angel did, ſtand upon the Earth and the Sea at the ſame time; let them alſo further imitate the Angel in <hi>lifting up their hands to Heaven;</hi> when they make their <hi>Covenant.</hi> Howſoever for the <hi>geſture</hi> we will not contend with them: I think it fitter in taking this <hi>Oath,</hi> then after the uſuall manner, to <hi>lay the hand upon the Bible;</hi> for this <hi>Oath</hi> and <hi>Covenant</hi> hath no ground or foundation at all in that book: and the <hi>lifting up</hi> of the <hi>hand</hi> very well expreſſeth the purport of this <hi>Covenant,</hi> which is a <hi>lifting up</hi> of their <hi>hands againſt the Lords anointed,</hi> and his <hi>Church:</hi> yet under pretence of <hi>defence of</hi> the <hi>Kings perſon,</hi> never ſo much <hi>endangered</hi> as by their <hi>Armies;</hi> and of <hi>Religion,</hi> never ſo <hi>profaned</hi> as by their <hi>Reformadoes;</hi> and of the <hi>liberties</hi> of <hi>Subjects,</hi> never ſo much <hi>infringed</hi> as by <hi>Arbitrary Votes.</hi>
+            </p>
+            <p>Before we take this <hi>Oath</hi> of <hi>Reformation,</hi> we muſt deſire a <hi>Reformation</hi> of the <hi>Oath:</hi> for it is full of <hi>Ambiguities</hi> and <hi>Contradictions:</hi> whence I thus frame a fifth argument.</p>
+            <p n="5">5. No <hi>Ambiguous Oath</hi> ought to be taken, or <hi>Covenant</hi> ſign<g ref="char:EOLhyphen"/>ed: for here one of <hi>Pythagoras</hi> golden Preceps taketh place, <hi>Loquere cum lumine:</hi> all Ambiguities, Equivocations, or
+<pb n="10" facs="tcp:119251:7"/>mental reſervations (eſpecially in <hi>Leagues</hi> and <hi>Oaths</hi>) are abominated by all <hi>Proteſtants.</hi> He that ſwearath <hi>ambiguouſly</hi> ſweareth not in <hi>ſimplicity</hi> of heart, nor can keep his Oath <hi>ſincerely</hi> and <hi>intirely.</hi>
+            </p>
+            <p>But in this <hi>Covenant</hi> and <hi>Oath</hi> there are many <hi>Ambiguities.</hi>
+            </p>
+            <p>For what is meant in the firſt clauſe by <hi>common Enemies?</hi> Either the <hi>world,</hi> the <hi>fleſh</hi> and the <hi>Divel;</hi> which indeed are (as it were) <hi>ſworn Enemies</hi> to all <hi>true Religion:</hi> or <hi>Papiſts,</hi> or <hi>Independants;</hi> who are both <hi>enemies</hi> to the <hi>Diſcipline</hi> and <hi>Government</hi> of the <hi>Scotch</hi> Church.</p>
+            <p>In the ſecond clauſe what is meant by <hi>Church Govern<g ref="char:EOLhyphen"/>ment by Archbiſhops, Biſhops, &amp;c?</hi> either <hi>all government</hi> by <hi>Biſhops;</hi> or the <hi>preſent Government only,</hi> with the late <hi>Inno<g ref="char:EOLhyphen"/>vations</hi> and <hi>abuſes</hi> thereof. If all <hi>Government</hi> by <hi>Biſhops,</hi> then in taking this <hi>Oath,</hi> we condemn not only the <hi>perpe<g ref="char:EOLhyphen"/>tual Government</hi> of the <hi>Church</hi> from the <hi>Apostles</hi> time till the <hi>Reformation of Religion</hi> in the dayes of <hi>Hen.</hi> 8. but alſo the <hi>Reformed Churches</hi> in <hi>England, Ireland, Denmark, Sweth<g ref="char:EOLhyphen"/>land, Poland, Saxonie,</hi> and other parts of <hi>Germany;</hi> where either they have Archbiſhops and Biſhops, or tantmount Intendents, and Superintendents; If the <hi>preſent Government</hi> only, with <hi>innovations</hi> and <hi>abuſes;</hi> let them explain what are the <hi>innovations</hi> and <hi>abuſes</hi> we ſwear againſt: elſe we cannot <hi>ſwear</hi> in <hi>judgment.</hi> What is meant by <hi>Hierarchy?</hi> the word ſignifieth <hi>holy Government,</hi> being derived from <hi>Iera holy,</hi> and <hi>Arkirule</hi> or <hi>government.</hi> And is it fit <hi>crudely,</hi> with<g ref="char:EOLhyphen"/>out any <hi>gloſs,</hi> to <hi>forſwear all</hi> holy Government?</p>
+            <p>In the third clauſe, what is meant by <hi>defending the Kings perſon in the defence of the true Religion, and Liberties of the Kingdoms?</hi> Is it a <hi>limitation,</hi> or not? If it be <hi>no limitation,</hi> what doth it there? There ought to be no idle, and (if I may ſo ſpeak) <hi>hang-by</hi> words in an <hi>Oath:</hi> for the Wiſeman teacheth us, when he ſpeak to God, <hi>our words muſt be few.</hi> If it be a <hi>limitation,</hi> how doth this <hi>Covenant</hi> agree with the <hi>Oathes</hi> of <hi>Supremacy</hi> and <hi>Allegiance;</hi> by which we are abſolutely bound to defend the Kings perſon, Royal D<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nities and Prerogatives of the Crown, with any <hi>if</hi> or <hi>of,</hi> reſtriction or qualification?</p>
+            <pb n="11" facs="tcp:119251:7"/>
+            <p>In the fourth clauſe, What is meant by <hi>Malignants</hi> or <hi>evil Inſtruments?</hi> A word never uſed till of late in any Statute, Law or Ordinance; and never ſo much abuſed as at this day.</p>
+            <p>In the ſixth clauſe, how far extend theſe words, <hi>I will aſſiſt and defend all thoſe that enter into this League and Covenant, in the maintaining and perſuance thereof.</hi> Doth it reach to gi<g ref="char:EOLhyphen"/>ving <hi>battle</hi> to the KING, Sequeſtring Eſtates, plundering houſes, and trampling all Lawes under foot, and to the juſtifying all the outrages committed in the maintaining and purſuing this League? If not, why is it not <hi>ci cumſcribed</hi> with that limitation in the firſt <hi>Proteſtation, By all good and lawfull means?</hi> or ſo far <hi>as lawfully I may?</hi> There being ſo many <hi>Amphibologies. Ambiguities,</hi> and <hi>Kiddles</hi> in this <hi>Oath,</hi> we muſt have ſome <hi>Oedipus</hi> of the <hi>Synod</hi> to read and clearly expound them, before we can ſafely engage our conſcience by Oath to perform them.</p>
+            <p>No <hi>Covenant</hi> may be made, or <hi>Oath</hi> taken, which imply<g ref="char:EOLhyphen"/>eth in it <hi>contradictions;</hi> for in ſuch an Oath or Covenant we play faſt and looſe; ſay and unſay; and overthrow the nature of an Oath; and <hi>take Gods name in vain.</hi> The Schools and ancient Doctors conſtantly maintain, that it exceedeth even Divine Omnipotency to reconcile Contradictions; which are amongſt thoſe many things St. <hi>Auguſtine</hi> ſpeaketh of, which <hi>God therefore cannot do, becauſe he is Omnipotent.</hi>
+            </p>
+            <p>But there are apparent <hi>Contradictions</hi> in this <hi>Covenant,</hi> and <hi>Gordion knots</hi> which cannot be untied. For,</p>
+            <p>Firſt, It is ſaid in the Preface, that the <hi>Noblemen, Ba<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s,</hi> &amp;c. <hi>enter into this Covenant according to the commen<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le practice of theſe King oms in former times;</hi> and yet Mr. N<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e in his Speech, publiſhed by ſpecial order of the Houſe, up<g ref="char:EOLhyphen"/>on <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he very day the Covenant was read and ſworn unto, and ſubcribed by the honorable Houſe of Commons, and Reverend Aſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mbly of Divines, <hi>Sept.</hi> 25. ſaith <hi>p.</hi> 12. <hi>That</hi> ſuch an Oa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for <hi>matter,</hi> perſons, and other circumſtances, hath <hi>not
+<pb n="12" facs="tcp:119251:8"/>been in any age,</hi> or <hi>Oath</hi> we read of in ſacred or humane ſto<g ref="char:EOLhyphen"/>ries. And Mr. <hi>Coleman</hi> in his Sermon commanded to be Printed by the Commons of the Houſe of Parliament, <hi>Sept. ult.</hi> 1643. <hi>pag.</hi> 18. <hi>Ask your Fathers; conſult with the aged of our times, whether ever ſuch a thing were done in their dayes, or in the dayes of their Fathers before them!</hi> And in his Epiſtle Dedicatory, <hi>An Oath if vain, makes the Land to mourn: an Oath, if weighty, makes it rejoyce. This is a new thing, and not done in ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Land before; and I hope will have a new effect, not ſeen by our people before.</hi>
+            </p>
+            <p>We are to ſwear in the firſt branch, That <hi>we will really and conſtantly endeavour the preſervation of the Reformed Reli<g ref="char:EOLhyphen"/>gion in the Church of</hi> Scotland, <hi>in Doctrine, Worſhip, Diſci<g ref="char:EOLhyphen"/>pline, and Government:</hi> and yet in the ſame branch we ſwe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to <hi>endeavour to bring the Churches of God in theſe three Kingdoms</hi> (of which <hi>Scotland</hi> is one) <hi>to the neareſt conjunction and uni<g ref="char:EOLhyphen"/>formity in form of Church-Government, according to the Word of God, and the example of the beſt Reformed Churches:</hi> But this cannot be done if <hi>Scotland</hi> be preſerved in her preſent <hi>Directory</hi> for Worſhip, Diſcipline and Government: for the Government in the Church of <hi>England, Ireland, Denmark, Swethland, Poland, Saxony,</hi> and in all the Churches of the Eaſt (not ſubject to the Pope) is <hi>Epiſcopal:</hi> and that is proved to be moſt <hi>conformable</hi> to the <hi>Word of God,</hi> by the writings of <hi>Bilſon, Downham, Armagh,</hi> never yet an<g ref="char:EOLhyphen"/>ſwered by any.</p>
+            <p>We ſwear in the ſame branch. That <hi>we will endeavor to reform the Doctrine of the Church of</hi> England, <hi>according <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Gods Word;</hi> and yet preſerve the <hi>Reformed Religion in</hi> Sco<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>land <hi>in Doctrine:</hi> whereas the <hi>Doctrine</hi> of the Church of <hi>E<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>land</hi> and <hi>Scotland</hi> is all <hi>one;</hi> as appears by the Confeſſion of the one and Articles of the other. All the difference <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>tween the Church of <hi>England</hi> and <hi>Scotland,</hi> is concerng <hi>Diſcipline</hi> and <hi>Liturgie;</hi> not <hi>Doctrine,</hi> as it is diſtinguiſed from them.</p>
+            <pb n="13" facs="tcp:119251:8"/>
+            <p>We ſwear in the ſecond branch, That <hi>We will endeavour the extirpation of of Prelacy and Schiſme:</hi> whereas <hi>Prelacy</hi> hath been ever, and is, the <hi>ſpecial</hi> if not <hi>only</hi> mean to extirpate <hi>Schiſme.</hi> If <hi>Prelacy</hi> be taken away, ſaith St. <hi>Jerome ad Luc.</hi> and the preeminencie of one Presbyter above another; <hi>Tot Schiſmata erunt quot Sacerdotes.</hi> That is, <hi>to extirpate Church Government by Archbiſhops, Biſhops,</hi> &amp;c. and yet in the third b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anch we ſwear to <hi>preſerve the Rights and Priviledges of the Parliament, and Liberties of the Kingdoms:</hi> among which <hi>liber<g ref="char:EOLhyphen"/>ties</hi> of the Kingdom of <hi>England,</hi> and <hi>priviledges</hi> of the Parlia<g ref="char:EOLhyphen"/>ment, are the contents of <hi>Magna Charta,</hi> and <hi>Petition of Right,</hi> in which the Government of Archbiſhops and Biſhops, and the <hi>Rights and Priviledges</hi> of the <hi>Church</hi> are compriſed.</p>
+            <p>In the third branch we ſwear to <hi>preſerve and defend his Ma<g ref="char:EOLhyphen"/>jeſties Perſon, and Authority, without any diminution of his juſt Power and greatneſs:</hi> and yet in the <hi>ſixth Article</hi> we ſwear to <hi>aſſiſt and defend all thoſe that enter into this League and Co<g ref="char:EOLhyphen"/>venant, in the maintaining and purſuance thereof:</hi> Whereas it is known by their daily practiſe, that they <hi>levie Arms</hi> againſt the <hi>KING; Seize</hi> upon his Forts, Ships, Magazines, and Re<g ref="char:EOLhyphen"/>venues. How can a man take away the Kings Munition; and Caſtles; and yet not weaken his power? How can a man for<g ref="char:EOLhyphen"/>cibly <hi>encounter</hi> and <hi>diſcomfit</hi> an Army raiſed by the <hi>KING'S</hi> Power, and yet not diminiſh his power? How can a man take away his Revenues, Houſes, Parks. <hi>&amp;c.</hi> and not <hi>diminiſh</hi> his greatneſs? How can he give him Battle, and yet <hi>Defend</hi> his <hi>Per<g ref="char:EOLhyphen"/>ſon?</hi> Therefore before we enter into this <hi>Covenant</hi> to make up all the breaches in the <hi>Church,</hi> and <hi>Common-wealth,</hi> we muſt make up the <hi>breaches in the Covenant</hi> it ſelf; before we <hi>re<g ref="char:EOLhyphen"/>concile</hi> and unite the three Kingdoms, we muſt endeavour to <hi>reconcile</hi> the contradictions in this our Oath and <hi>So<g ref="char:EOLhyphen"/>lemn League.</hi>
+            </p>
+            <p>Either this <hi>League</hi> and <hi>Covenant</hi> confirmed by Oath is <hi>free</hi> and <hi>voluntary;</hi> or <hi>forced</hi> and <hi>Compulſory.</hi> If it be <hi>free</hi> and <hi>voluntary,</hi> Why is there annexed a moſt ſevere <hi>penalty</hi> to
+<pb n="14" facs="tcp:119251:9"/>be inflicted upon all thoſe who <hi>refuſe</hi> to <hi>enter into it</hi> before the firſt of <hi>March?</hi> If it be <hi>forced</hi> and <hi>compulſory,</hi> how is it a <hi>Co<g ref="char:EOLhyphen"/>venant?</hi> eſpecially with <hi>God,</hi> who reſpecteth not our <hi>words,</hi> but our <hi>hearts?</hi> If it be a <hi>const<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ained Oath</hi> impoſed upon us whether we will or no; then it is a <hi>heavy yoke</hi> laid upon the <hi>Conſcie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce,</hi> inconſiſtent with our <hi>Chriſtian Liberty:</hi> and the requiring it of us is not like to procure a <hi>bleſſing</hi> from Heaven to the Land, but to pull down the <hi>vials of Gods vengeance</hi> upon it, If <hi>Tertullian</hi> could ſay, <hi>Non est Religionis Religionem cogere,</hi> it is no rel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gious act to force Religion: we may <hi>ſwear</hi> that ſuch a <hi>conſtrained Oath</hi> is no way acceptable to God. Well it may be tea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med in <hi>ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> language a <hi>League</hi> or <hi>Covenant:</hi> but in the <hi>Lan<g ref="char:EOLhyphen"/>guage</hi> of <hi>Canaan</hi> it is not ſo. For <hi>Berith,</hi> a <hi>Covenant;</hi> comes from <hi>Bara,</hi> which ſignifieth <hi>eligere,</hi> ſaith <hi>Buxtorfius;</hi> that is, <hi>to chuſe.</hi> Neither is it any <hi>act of vertue</hi> in <hi>Ariſtotles</hi> School: for <hi>virtus eſt habitus electivus;</hi> a habit whereby we exerciſe our <hi>free choice.</hi>
+            </p>
+            <p>None ought to ſwear to that he <hi>knoweth not;</hi> for an <hi>Oath</hi> muſt be taken in <hi>judgment, truth,</hi> and <hi>righteouſneſs,</hi> Jer. 4.2. A man cannot ſwear in <hi>Judgement;</hi> or <hi>judiciouſly,</hi> who <hi>knoweth not</hi> that to be <hi>true</hi> in an <hi>aſſertory Oath;</hi> and <hi>honeſt</hi> and <hi>righteous</hi> in a <hi>promiſſary;</hi> which he ſweareth unto. For if that be <hi>falſe</hi> to which he <hi>ſweareth,</hi> he is perjured: and if be a <hi>diſhoneſt</hi> thing thing which he promiſeth to do, he is <hi>unrighteous.</hi> Beſides it it great precipitancy and <hi>raſhneſs,</hi> to enter into a Covenant <hi>blindfolded,</hi> and to <hi>ſwear</hi> to maintain that we <hi>underſtand not.</hi>
+            </p>
+            <p>But the ſubjects of <hi>England</hi> (at leaſt for the major part) <hi>know not</hi> what the <hi>Scotch Diſcipline, Government,</hi> or <hi>Worſhip</hi> is: which notwithanding by this <hi>Covenant</hi> they are bound to <hi>pre<g ref="char:EOLhyphen"/>ſerve,</hi> even with the <hi>hazard</hi> of their <hi>Fortunes and Lives.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
